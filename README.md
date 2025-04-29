@@ -1,4 +1,4 @@
-# Mini-project-1
+# Mini-project-1 (A Python-SQL Digital Ledger for Police Post)
 A Python-SQL Digital Ledger for Police Post
 Importing the data into jupyter notebook and analysing the null values and filling the null values with the helps of ffill
 After filling the null values, creating the connection between the mysql and jupyter note book.
