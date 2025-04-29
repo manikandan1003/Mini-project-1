@@ -13,3 +13,6 @@ other row box contain 7 Complex question , when we press the button the particul
 Vehicle Information Finder :
 Creating the another search title of Vehicle Information Finder with run button in that when we incert the Vechicle number and press the run button the result were show like,
 (A 27-year-old male driver was stopped  for Speeding at 2:30 PM. No search was conducted, and he received a citation. The stop lasted 6-15 minutes and was not drug-related).
+
+Traffic Stop Prediction form :
+Creating an Prediction form with the row of country,gender,age,race,search type,drug related or not,vechicle number with the Prediction of outcome and Violation button when press the button it will show the outcome and Violation of particular given data in the Traffic Stop Prediction form.
